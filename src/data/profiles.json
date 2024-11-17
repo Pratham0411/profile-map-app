@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "description": "A software engineer from California.",
+    "address": "123 Main St, Los Angeles, CA"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://randomuser.me/api/portraits/men/4.jpg",
+    "description": "A graphic designer from New York.",
+    "address": "456 Elm St, New York, NY"
+  },
+  {
+    "name": "Pradip",
+    "photo": "https://randomuser.me/api/portraits/men/8.jpg",
+    "description": "Data Scientist ",
+    "address": "Pune, Maharashtra, India",
+    "id": 3
+  },
+  {
+    "name": "Pooja More",
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+    "description": "MERN Developer",
+    "address": "Solapur, Maharashtra, India",
+    "id": 4
+  }
+]
